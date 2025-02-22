@@ -17,4 +17,4 @@ EDUCATIVO], y los jugadores recibiran la retroalimentación inmediata sobre su d
 Los jugadores aprenderán operaciones  básicas y resolución de problemas mediante  minijuegos educativos. Se reforzará el  pensamiento lógico y la resolución de ecuaciones a través de  desafíos progresivos, y las evaluaciones se realizarán mediante un sistema de puntuación y recompensas, lo que permitirá a los profesores y estudiantes medir el progreso de manera efectiva.
 La interfaz de usuario será intuitiva, y se incluirán efectos de sonido y música inmersiva, así como animaciones dinámicas para los personajes.
 Un tutorial interactivo guiará a los nuevos jugadores en sus primeros pasos dentro del Reino Encantado.
-Sistema de guardado de progreso y un panel de control para profesores para garantizar una experiencia de juego fluida y atractiva.
+Modo multijugador sistema de guardado de progreso y un panel de control para profesores para garantizar una experiencia de juego fluida y atractiva.
