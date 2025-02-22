@@ -1,6 +1,6 @@
 [NOMBRE DEL JUEGO] es un videojuego educativo diseñado para enseñar [MATERIA]
 a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante.
-La historia se desarrolla en [ESCENARIO], un mundo lleno de misterios, desafíos y
+La historia se desarrolla en el reino encantado, un mundo lleno de misterios, desafíos y
 personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del
 juego está diseñado para combinar diversión y educación, permitiendo que los
 estudiantes adquieran conocimientos de manera natural mientras exploran,
