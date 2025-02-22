@@ -5,8 +5,8 @@ personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nive
 juego está diseñado para combinar diversión y educación, permitiendo que los
 estudiantes adquieran conocimientos de manera natural mientras exploran,
 resuelven problemas y superan obstáculos.
-El protagonista de esta aventura es [NOMBRE], un/a [DESCRIPCIÓN FÍSICA Y DE
-PERSONALIDAD]. [NOMBRE] es un/a [ROL] que ha sido elegido/a para una misión
+El protagonista de esta aventura es Alex, un joven curioso y valiente.
+[NOMBRE] es un/a [ROL] que ha sido elegido/a para una misión
 única: [OBJETIVO PRINCIPAL]. Con su [CARACTERÍSTICA ESPECIAL], [NOMBRE]
 deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a
 los jugadores conceptos clave de [MATERIA].
