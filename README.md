@@ -16,4 +16,4 @@ Los estudiantes avanzarán mediante sistema de niveles de dificultad. Cada nivel
 EDUCATIVO], y los jugadores recibirán retroalimentación inmediata sobre su
 desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
 Los jugadores aprenderán operaciones básicas y resolución de problemas mediante minijuegos educativos. Se reforzará el pensamiento lógico y la resolución de ecuaciones a través de desafíos progresivos, y las evaluaciones se realizarán mediante un sistema de puntuación y recompensas, lo que permitirá a los profesores y estudiantes medir el progreso de manera efectiva.
-La interfaz de usuario será intuitiva, y se incluirán [Efectos audiovisuales], así como animaciones dinámicas para los personajes. Un tutorial interactivo guiará a los nuevos jugadores en sus primeros pasos dentro del Reino Encantado.
+La interfaz de usuario será intuitiva, y se incluirán efectos de sonido y música inmersiva, así como animaciones dinámicas para los personajes.
