@@ -1,17 +1,11 @@
-[NOMBRE DEL JUEGO] es un videojuego educativo diseñado para enseñar [MATERIA]
-a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante.
-La historia se desarrolla en [ESCENARIO], un mundo lleno de misterios, desafíos y
-personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del
-juego está diseñado para combinar diversión y educación, permitiendo que los
-estudiantes adquieran conocimientos de manera natural mientras exploran,
-resuelven problemas y superan obstáculos.
-El protagonista de esta aventura es [NOMBRE], un/a [DESCRIPCIÓN FÍSICA Y DE
-PERSONALIDAD]. [NOMBRE] es un/a [ROL] que ha sido elegido/a para una misión
-única: [OBJETIVO PRINCIPAL]. Con su [CARACTERÍSTICA ESPECIAL], [NOMBRE]
-deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a
-los jugadores conceptos clave de [MATERIA].
-El jugador podrá [MECÁNICA 1], para avanzar deberá [MECÁNICA 2] y los desafíos
-incluirán [TIPO DE DESAFÍOS]
-Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa [CONCEPTO
-EDUCATIVO], y los jugadores recibirán retroalimentación inmediata sobre su
-desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
+Aventuras Mágicas es un videojuego educativo diseñado para enseñar Matemáticas a estudiantes de primaria a través de una experiencia inmersiva y emocionante. La historia se desarrolla en el Reino Encantado, un mundo lleno de misterios, desafíos y personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del juego está diseñado para combinar diversión y educación, permitiendo que los estudiantes adquieran conocimientos de manera natural mientras exploran, resuelven problemas y superan obstáculos.
+
+El protagonista de esta aventura es Indigo, es un aprendiz del mago, valiente y curioso, con gran ingenio y determinación. Indigo ha sido elegido para una misión única: descubrir los secretos matemáticos del Reino Encantado y restaurar el equilibrio del conocimiento. Con su habilidad para resolver acertijos y aplicar lógica matemática, Indigo deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a los jugadores conceptos clave de Matemáticas.
+
+El jugador podrá explorar diferentes reinos y resolver acertijos; para avanzar, deberá superar pruebas matemáticas y enfrentarse a desafíos lógicos. Los desafíos incluirán rompecabezas, problemas de lógica y competencias contrarreloj.
+
+Los estudiantes avanzarán mediante un sistema de niveles de dificultad, donde cada nivel representa un concepto educativo diferente. Los jugadores recibirán retroalimentación inmediata sobre su desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
+
+Los jugadores aprenderán operaciones básicas y resolución de problemas mediante minijuegos educativos. Se reforzará el pensamiento lógico y la resolución de ecuaciones a través de desafíos progresivos, y las evaluaciones se realizarán mediante un sistema de puntuación y recompensas, lo que permitirá a los profesores y estudiantes medir el progreso de manera efectiva.
+
+El juego se desarrollará usando Unity y tendrá soporte para PC y dispositivos móviles. Además, se implementarán características como modo multijugador, sistema de logros y medallas, sistema de guardado de progreso y un panel de control para profesores para garantizar una experiencia de juego fluida y atractiva. La interfaz de usuario será intuitiva, y se incluirán efectos de sonido y música inmersiva, así como animaciones dinámicas para los personajes; Ademas tendra un tutorial interactivo que guiará a los nuevos jugadores en sus primeros pasos dentro del Reino Encantado.
