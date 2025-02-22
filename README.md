@@ -12,6 +12,6 @@ deberá enfrentarse a desafíos cada vez más complejos mientras aprende y ense�
 los jugadores conceptos clave de [MATERIA].
 El jugador podrá [MECÁNICA 1], para avanzar deberá [MECÁNICA 2] y los desafíos
 incluirán [TIPO DE DESAFÍOS]
-Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa [CONCEPTO
+Los estudiantes avanzarán mediante sistema de niveles de dificultad. Cada nivel representa [CONCEPTO
 EDUCATIVO], y los jugadores recibirán retroalimentación inmediata sobre su
 desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
