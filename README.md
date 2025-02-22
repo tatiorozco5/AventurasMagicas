@@ -15,3 +15,4 @@ incluirán [TIPO DE DESAFÍOS]
 Los estudiantes avanzarán mediante sistema de niveles de dificultad. Cada nivel representa [CONCEPTO
 EDUCATIVO], y los jugadores recibirán retroalimentación inmediata sobre su
 desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
+Los jugadores aprenderán operaciones básicas y resolución de problemas mediante minijuegos educativos. Se reforzará el pensamiento lógico y la resolución de ecuaciones a través de desafíos progresivos, y las evaluaciones se realizarán mediante un sistema de puntuación y recompensas, lo que permitirá a los profesores y estudiantes medir el progreso de manera efectiva.
